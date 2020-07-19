@@ -1,1 +1,1 @@
-Upisi svoje ime:
+Upisi svoje ime sada:
