@@ -1,3 +1,2 @@
-Upisi svoje ime sada:
-Tamara
-Paroski Salbut
+Upisi svoje ime:
+
