@@ -1,3 +1,3 @@
 Upisi svoje ime:
-Ivan Vukosavljevic
-ja sam master grana
+Dušan Svirčević
+ja sam grana Ivan
